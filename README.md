@@ -1,7 +1,7 @@
 # Professional Tennis Insights
-This project contains data analysis and Machine-Learning techniques on professional tennis (ATP Tour) data from 1968 to present. Data is taken from this GitHub Repository: https://github.com/JeffSackmann/tennis_atp/tree/master
+This project contains data analysis and Machine-Learning techniques on professional tennis (ATP Tour) data from 1968 to present. Data is taken from this GitHub Repository: https://github.com/JeffSackmann/tennis_atp/tree/master, and was also data scraped from tennisabstract.com by a Python script.
 
-Please take a look at the more interesting insights which I have gathered in this project - from someone with a heavy interest in tennis! Graphics are created using Shiny, using a combination of Python and R. 
+Please take a look at the more interesting insights which I have gathered in this project - from someone with a heavy interest in tennis! Graphics are created using Shiny, pyplot and matplotlib, using a combination of Python and R. This project is in progress, and will continue to be updated as I work towards uncovering the characteristics that make a great tennis player at ATP level. 
 
 ## Average age of ATP Tour match winners from 2010-2024
 ![image](https://github.com/user-attachments/assets/b6fe98e0-f377-4a41-8e10-04a08da3b2f9)
