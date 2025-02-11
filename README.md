@@ -17,7 +17,9 @@ The above graphic was analysed in R, with Shiny and Markdown.
 ## Most important rally statistics for Djokovic to win a match (Machine Learning Insights)
 ![image](https://github.com/user-attachments/assets/6cfc07a2-2eb8-4140-a309-b4e3745b7be0)
 A machine learning model (random forest classifier) was built based on the data from 750+ Djokovic ATP and Grand Slam Matches. This model predicts which key statistics Djokovic will normally require in a match in order to win.
-vs Ratio (the ratio of the opponent's winners to unforced errors) was most important. If opposition had high unforced errors and low winners, Djokovic would likely win the match. Possible explanations for this is Djokovic's playstyle of continuously playing aggressive but high percentage shots, with minimal errors, alongside his elite court coverage and defence. This entices opposition players who struggle to keep up to play more aggressive, low percentage shots, going for winners. However as these shots are hard to execute, this often results in a high unforced error count. 
+vs Ratio (the ratio of the opponent's winners to unforced errors) was most important. If opposition had high unforced errors and low winners, Djokovic would likely win the match. 
+
+Possible explanations for this is Djokovic's playstyle of continuously playing aggressive but high percentage shots, with minimal errors, alongside his elite court coverage and defence. This entices opposition players who struggle to keep up to play more aggressive, low percentage shots, going for winners. However as these shots are hard to execute, this often results in a high unforced error count. 
 
 #### Note: 
 Machine Learning in Python with Scikit-Learn, and visualised with matplotlib
