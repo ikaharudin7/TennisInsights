@@ -55,7 +55,7 @@ plt.figure(figsize=(10,6))
 plt.barh(feature_importances['Feature'], feature_importances['Importance'], color='skyblue')
 plt.xlabel('Importance')
 plt.ylabel('Feature')
-plt.title('Which Rally Statistics must Novak Djokovic Win to ')
+plt.title('Most important Rally Statistics for Djokovic to win a match')
 plt.gca().invert_yaxis()  # Invert y-axis to have the most important feature at the top
 plt.show()
 
