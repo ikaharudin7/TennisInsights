@@ -24,8 +24,6 @@ Classification Report:
            W       0.93      0.92      0.93       117
 
     accuracy                           0.88       147
-   macro avg       0.82      0.83      0.82       147
-weighted avg       0.89      0.88      0.89       147
 
 A machine learning model (random forest classifier) was built based on the data from 750+ Djokovic ATP and Grand Slam Matches (labelled data). This model predicts which key statistics Djokovic will normally require in a match in order to win, and was trained with K-Cross validation. The classification report is listed above, and it predicts outcomes to a high accuracy, however, it may be overfitting a small dataset, as Djokovic only has a finite number of matches he has played. 
 
