@@ -48,6 +48,12 @@ The 'vs Ratio' (the ratio of the opponent's winners to unforced errors) was most
 #### Note: 
 Machine Learning in Python with Scikit-Learn, and visualised with matplotlib
 
+#### Explanations on the below ML outcomes on Novak's Serve and Return in progress!
+![image](https://github.com/user-attachments/assets/09bca1de-9cd2-4d10-8565-84cf41b5059d)
+![image](https://github.com/user-attachments/assets/26d8f740-0562-4179-a0af-c0f503edb0e7)
+
+
+
 
 ## 3. Average differentials of 1st and 2nd serve points won on 3 different surfaces
 ![image](https://github.com/user-attachments/assets/16ae059c-3db5-49da-a8b5-b83884958ac3)
